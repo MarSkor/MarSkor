@@ -1,6 +1,6 @@
 ## Hello! 👋 I'm Martine. 
 
-I am a front-end developer with passion for UX/UI design. 
+I'm a front-end developer with passion for UX/UI design. 
 When I'm not coding or tinkering with some design stuff, I might be crocheting a new pair of mittens. 🧶
 
 ### ⚙️ Technologies I use to make things on the web. 
